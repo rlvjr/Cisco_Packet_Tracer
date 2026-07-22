@@ -10,12 +10,7 @@ This project builds upon the existing Sky Tier Capital infrastructure, which inc
 
 # Network Topology
 
-The current Sky Tier Capital network consists of a Cisco Catalyst 3650 switch connecting two workstation endpoints.
-          STC_Switch
-              |
-      -----------------
-      |               |
-     STC1            STC2
+The current Sky Tier Capital network consists of a Cisco Catalyst 3650 switch connecting two workstation endpoints, STC1 and STC2.
      
 ## Network Devices
 
